@@ -7,7 +7,7 @@
 <li>import pygame </li>
 <li>import random </li>
  <li>import sys </li>
- </li>import time </li>
+ <li>import time </li>
  <li>import pandas </li>
  </ul>
 
