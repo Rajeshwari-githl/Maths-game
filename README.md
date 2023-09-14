@@ -11,4 +11,7 @@
  <li>import pandas </li>
  </ul>
 
+  <p>If u have any idea to improve it or make it more interesting, u can feel free to send a PR. </p>
+
+
 
